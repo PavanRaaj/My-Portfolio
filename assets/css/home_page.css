@@ -167,3 +167,23 @@ a {
   top: 60px;
   /* position: absolute; */
 }
+
+
+@media screen and (max-width: 600px){
+  .header_div {
+    border-radius: 80px 15px 15px 80px;
+    width: 420px;
+    height: 180px;
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+  }
+
+  .contact_me_container {
+    position: absolute;
+    top: 608%;
+    left: 96%;
+  }
+}
