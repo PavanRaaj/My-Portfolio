@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Jost&family=Redressed&family=Varela+Round&display=swap");
 
-.main_div_of_skills {
-  /* position: relative; */
-  /* margin-top: 13%;
+/* .main_div_of_skills {
+  position: relative; 
+   margin-top: 13%;
   left: 5%;
-  height: 500px; */
-}
+  height: 500px;
+} */
 .main_div {
     display: flex;
     margin-top: 4%;
