@@ -1,0 +1,132 @@
+#my_projects_div {
+  margin-top: -100px;
+}
+
+.java_script_lab_works {
+  display: flex;
+  margin-left: 20%;
+  margin-top: 15%;
+  padding-bottom: 5%;
+}
+.java_script_lab_works_text {
+  font-size: 30px;
+  font-family: "Varela Round", sans-serif;
+  margin-top: 3%;
+}
+.java_script_image {
+  width: 500px;
+  border-radius: 30px;
+  margin-left: 17%;
+}
+.web_project {
+  width: 1200px;
+  display: flex;
+  margin-left: 20%;
+  padding-bottom: 5%;
+}
+.web_project_image {
+  width: 500px;
+  height: 150px;
+  border-radius: 30px;
+}
+.web_project_text {
+  font-size: 30px;
+  font-family: "Varela Round", sans-serif;
+  margin-left: 8%;
+  margin-top: 50px;
+}
+.mysql_labworks {
+  width: 100px;
+  display: flex;
+  padding-bottom: 5%;
+}
+.mysql_labworks_image {
+  width: 500px;
+  height: 150px;
+  border-radius: 30px;
+  margin-left: 210%;
+}
+.mysql_labworks_text {
+  font-size: 30px;
+  font-family: "Varela Round", sans-serif;
+  position: absolute;
+  margin-left: 20%;
+  margin-top: 2.5%;
+}
+.java_labworks {
+  width: 100px;
+  display: flex;
+  margin-left: 20%;
+  padding-bottom: 5%;
+}
+.java_labworks_image {
+  width: 500px;
+  height: 150px;
+  border-radius: 30px;
+}
+.java_labworks_text {
+  font-size: 30px;
+  font-family: "Varela Round", sans-serif;
+  position: absolute;
+  width: 700px;
+  margin-top: 3.5%;
+  margin-left: 30%;
+}
+.ruby_labworks {
+  width: 100px;
+  display: flex;
+  margin-left: 20%;
+  padding-bottom: 5%;
+}
+.ruby_labworks_text {
+  font-size: 30px;
+  font-family: "Varela Round", sans-serif;
+  position: absolute;
+  margin-top: 3%;
+}
+.ruby_labworks_image {
+  width: 500px;
+  height: 150px;
+  border-radius: 30px;
+  margin-left: 140%;
+}
+.todo_app_work {
+  width: 100px;
+  display: flex;
+  margin-left: 20%;
+  padding-bottom: 5%;
+}
+.todo_app_work_image {
+  width: 500px;
+  height: 150px;
+  border-radius: 30px;
+}
+.todo_app_work_text {
+  font-size: 30px;
+  font-family: "Varela Round", sans-serif;
+  position: absolute;
+  margin-top: 3.5%;
+  margin-left: 30%;
+  width: 700px;
+}
+.final_project {
+  width: 100px;
+  display: flex;
+  margin-left: 20%;
+  padding-bottom: 5%;
+}
+
+.taxido_logo_text {
+  font-size: 30px;
+  font-family: "Varela Round", sans-serif;
+  position: absolute;
+  margin-top: 3%;
+}
+
+.taxido_logo_image {
+  width: 500px;
+  height: 150px;
+  border-radius: 30px;
+  margin-top: -10%;
+  margin-left: 58%;
+}

@@ -34,7 +34,7 @@ body {
 }
 .app_title {
   position: relative;
-  bottom: 80px;
+  bottom: 70px;
   left: 20px;
   font-size: 60px;
   color: black;
@@ -51,7 +51,7 @@ body {
 
 nav {
   display: flex;
-  margin-left: 50%;
+  margin-left: 37%;
   margin-top: 5%;
 }
 a {
@@ -60,11 +60,15 @@ a {
   font-size: 30px;
 }
 .nav_elements {
-  margin-left: 50px;
+  margin-left: 25px;
   border-radius: 80px;
   background-color: #f39c12;
   padding: 8px 28px;
   font-weight: 600;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   cursor: pointer;
   font-family: "Varela Round", sans-serif;
 }
